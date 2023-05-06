@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AxisPic
-- 👀 I’m interested in python,java,go,c++
+- 👀 I’m interested in python,rust,go,c++
 - 🌱 I’m currently learning cs
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me ....
